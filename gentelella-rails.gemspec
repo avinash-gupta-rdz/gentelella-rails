@@ -14,7 +14,7 @@ Gem::Specification.new do |s|
 
   s.files = Dir["{assets,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
 
-  s.add_runtime_dependency "railties", ">= 4.0"
+  s.add_runtime_dependency "railties", ">= 5.0"
   s.add_runtime_dependency 'sass-rails', '>= 5.0'
   s.add_runtime_dependency 'coffee-rails'
 
